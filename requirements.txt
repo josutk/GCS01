@@ -1,3 +1,4 @@
 Django
 flake8
+gunicorn
 whitenoise==3.3.0
